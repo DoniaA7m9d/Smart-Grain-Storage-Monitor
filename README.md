@@ -2,7 +2,7 @@
 
 <img src="architecture.png" alt="System Architecture Diagram" width="100%">
 
-### [Short Description]: An ESP32-based multi-sensor I2C IoT system that monitors grain storage environmental conditions using SHT31 sensors, provides real-time Telegram alerts for mold risk, and logs data to Google Sheets for time-series analysis.
+### An ESP32-based multi-sensor I2C IoT system that monitors grain storage environmental conditions using SHT31 sensors, provides real-time Telegram alerts for mold risk, and logs data to Google Sheets for time-series analysis.
 
 ---
 
